@@ -1,4 +1,4 @@
-## Docker-assignment
+#### Docker-assignment
 #Docker assignment | Sem 5 
 
 ``Question :``
@@ -25,3 +25,12 @@
   environment variable - POSTGRES_PASSWORD: example
 
   Note: Bring up both the containers on same user defined bridge network
+
+
+## Screenshots:
+
+
+![Screenshot1](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot.png)
+
+
+![Screenshot2](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot2.png)
