@@ -32,7 +32,7 @@
 ## Screenshots:
 
 
-![Screenshot1](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot.png)
+![Screenshot1](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot1.png)
 
 
 ![Screenshot2](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot2.png)
