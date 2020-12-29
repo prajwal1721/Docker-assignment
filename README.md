@@ -1,4 +1,4 @@
-## Docker-assignment
+#### Docker-assignment
 #Docker assignment | Sem 5 
 
 ``Question :``
@@ -11,13 +11,15 @@
 
   Container port - 80
 
-  volumes - /var/www/html/modules
+  Volumes 
+  
+      - /var/www/html/modules
 
       - /var/www/html/profiles
     
       - /var/www/html/themes
     
-     - /var/www/html/sites
+      - /var/www/html/sites
   contianer2(database)
 
   Back-end image - postgres:10
@@ -25,3 +27,12 @@
   environment variable - POSTGRES_PASSWORD: example
 
   Note: Bring up both the containers on same user defined bridge network
+
+
+## Screenshots:
+
+
+![Screenshot1](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot.png)
+
+
+![Screenshot2](https://github.com/prajwalsfs1721/Docker-assignment/blob/main/Images/Screenshot2.png)
