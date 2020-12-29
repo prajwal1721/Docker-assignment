@@ -11,7 +11,8 @@
 
   Container port - 80
 
-  volumes 
+  Volumes 
+  
       - /var/www/html/modules
 
       - /var/www/html/profiles
