@@ -11,13 +11,14 @@
 
   Container port - 80
 
-  volumes - /var/www/html/modules
+  volumes 
+      - /var/www/html/modules
 
       - /var/www/html/profiles
     
       - /var/www/html/themes
     
-     - /var/www/html/sites
+      - /var/www/html/sites
   contianer2(database)
 
   Back-end image - postgres:10
