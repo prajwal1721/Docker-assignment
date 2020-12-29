@@ -2,7 +2,7 @@
 #Docker assignment | Sem 5 
 
 ``Question :``
-Assignment 2 =>
+  
   Create a Docker-compose yaml for the following Multi-container app (Drupal postgres)
 
   contianer1 (front-end)  
